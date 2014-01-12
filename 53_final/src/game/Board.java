@@ -8,6 +8,10 @@ public class Board {
 	// Nå... det virker sådan her. Jeg laver denne ændring nu, ved at lave en kommentering. Den uploader vi sådan her:
 	// Først gem.
 	// Der kommer en pil ved navnet. Betyder at der er lavet en ændring.
+	// Nu er der, for projektet, en lille pil op, med et 1-tal.
+	// Det betyder, at der er én "commit", som du skal "push" (andet ord for "upload", når man taler om git).
+	// Så har du tilføjet ændringen. Pilen er væk.
+	// Når du vil hente ændringer, som andre har lavet, laver du en "fetch" eller en "pull". De virker umiddelbart begge...
 	
 	public Board() {
 		boardArray[0] = new Start("Start"); // Fixet
